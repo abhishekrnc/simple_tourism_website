@@ -42,3 +42,13 @@ nav ul li {
     display: inline-block;
     margin-left: 60px;
 }
+
+.row {
+    display: flex;
+    height: 88%;
+    align-items: center;
+}
+
+.col {
+    flex-basis: 50%;
+}
